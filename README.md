@@ -1,0 +1,1 @@
+Added web scraping and sentiment analysis for news categorization Extended Description (if needed): Implemented web scraping to collect news articles. Applied sentiment analysis to determine polarity (positive/negative). Classified articles into categories: Politics, SA, Business, Technology, and Entertainment.
